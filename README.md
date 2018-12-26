@@ -46,6 +46,10 @@ class MyComp {
 Changelog
 ---------
 
+### v0.2.0
+
+* Change API in order to be compatible with `@whitetrefoil/unistore-bind@v0.2.0`.
+
 ### v0.1.0
 
 * Initial release.

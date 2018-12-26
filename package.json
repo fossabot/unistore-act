@@ -1,6 +1,6 @@
 {
   "name": "@whitetrefoil/unistore-act",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Act a action directly from DOM events for unistore.",
   "main": "lib/main",
   "typings": "lib/main.d.ts",
