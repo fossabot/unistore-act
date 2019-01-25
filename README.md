@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwhitetrefoil%2Funistore-act.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwhitetrefoil%2Funistore-act?ref=badge_shield)
+
 @whitetrefoil/unistore-act
 ============================
 
@@ -53,3 +55,7 @@ Changelog
 ### v0.1.0
 
 * Initial release.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwhitetrefoil%2Funistore-act.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwhitetrefoil%2Funistore-act?ref=badge_large)
